@@ -1,13 +1,12 @@
-import { useState } from 'react'
+import { HelloWorld } from './assets/components/day1/hello'
 
-import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
-      
+      <HelloWorld/>
     </>
   )
 }
