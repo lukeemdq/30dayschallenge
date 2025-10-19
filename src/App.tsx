@@ -1,4 +1,5 @@
-import { HelloWorld } from './assets/components/day1/hello'
+
+import { Contador } from "./assets/components/day3/Contador"
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-      <HelloWorld/>
+      <Contador/>
     </>
   )
 }
