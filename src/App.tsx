@@ -1,5 +1,5 @@
+import { TodoList } from "./assets/components/day4/TodoList"
 
-import { Contador } from "./assets/components/day3/Contador"
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Contador/>
+      <TodoList/>
     </>
   )
 }
