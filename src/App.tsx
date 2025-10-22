@@ -1,4 +1,6 @@
-import { TodoList } from "./assets/components/day4/TodoList"
+
+import { Day6 } from "./assets/components/day6/Day6"
+
 
 
 
@@ -7,7 +9,11 @@ function App() {
 
   return (
     <>
-      <TodoList/>
+      <Day6>
+        <p>Teste do conteudo dentro</p>
+        <div>Essa aqui é a div</div>
+        
+      </Day6>
     </>
   )
 }
