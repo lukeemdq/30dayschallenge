@@ -1,8 +1,4 @@
-import { Timer } from "./assets/components/day9/Timer"
-
-
-
-
+import { Ref } from "./assets/components/day10/Ref"
 
 
 
@@ -11,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Timer/>
+      <Ref/>
     </>
   )
 }
