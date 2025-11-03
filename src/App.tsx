@@ -1,4 +1,5 @@
-import { Relogio } from "./assets/components/day8/Relogio"
+import { Timer } from "./assets/components/day9/Timer"
+
 
 
 
@@ -10,7 +11,7 @@ function App() {
 
   return (
     <>
-      <Relogio/>
+      <Timer/>
     </>
   )
 }
